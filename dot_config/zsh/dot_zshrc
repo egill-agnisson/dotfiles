@@ -119,3 +119,8 @@ if [ -f /run/.containerenv ]; then
     source /run/.containerenv
     export TOOLBX_NAME=$name
 fi
+
+# =========================================================
+# Activate mise
+# =========================================================
+eval "$(~/.local/bin/mise activate zsh)"

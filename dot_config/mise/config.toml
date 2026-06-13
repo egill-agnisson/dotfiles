@@ -1,0 +1,13 @@
+[settings]
+minimum_release_age = "7d"  # only install versions released more than 7 days ago
+
+[tools]
+neovim = "latest"
+bat = "latest"
+eza = "latest"
+fd = "latest"
+fzf = "latest"
+oh-my-posh = "latest"
+ripgrep = "latest"
+zoxide = "latest"
+
