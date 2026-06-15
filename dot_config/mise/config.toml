@@ -10,4 +10,5 @@ fzf = "latest"
 oh-my-posh = "latest"
 ripgrep = "latest"
 zoxide = "latest"
+tree-sitter = "latest"
 
